@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="save_changes">SAVE CHANGES</string>
+    <string name="place_holder">Place holder</string>
 </resources>

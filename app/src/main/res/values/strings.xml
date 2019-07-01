@@ -101,4 +101,5 @@
     <string name="contact">Contact</string>
     <string name="save_changes">SAVE CHANGES</string>
     <string name="save">SAVE</string>
+    <string name="place_holder">Place holder</string>
 </resources>
