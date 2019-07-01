@@ -94,4 +94,10 @@
     <string name="welcome">Welcome</string>
     <string name="sign_up_here">Sign Up here</string>
     <string name="confirm_password">confirm Password</string>
+    <string name="name">Name</string>
+    <string name="load">LOAD</string>
+    <string name="admission_number">Admission Number</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="contact">Contact</string>
+    <string name="save_changes">SAVE CHANGES</string>
 </resources>
